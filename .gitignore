@@ -1,0 +1,12 @@
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
